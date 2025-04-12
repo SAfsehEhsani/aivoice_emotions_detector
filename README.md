@@ -1,3 +1,4 @@
+# AI Voice Emotions Detection Using Hume AI By Syed Afseh Ehsani
 <div align="center">
   <img src="https://storage.googleapis.com/hume-public-logos/hume/hume-banner.png">
   <h1>EVI Next.js App Router Example</h1>
@@ -22,4 +23,4 @@ Below are the steps to completing deployment:
 
 ## Support
 
-If you have questions, require assistance, or wish to engage in discussions pertaining to this starter template, [please reach out to us on Discord](https://link.hume.ai/discord).
+If you have questions, require assistance, or wish to engage in discussions pertaining to this starter template, please reach out to us on Instagram : https://www.instagram.com/afsh_coder?igsh=MWFjZXBnMzRnem1odg== 
